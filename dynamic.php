@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>Dynamic Web Page</title>
-</head>
+<title>Northland Analytics Employee Management System</title></head>
 <body>
 <h2>This is a Heading</h2>
 <p>This is a paragraph</p>
